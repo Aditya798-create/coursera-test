@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 1rem;
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background-color: navajowhite;
+}
+
+h1 {
+    font-family: monospace, sans-serif;
+}
+
+.surveyForm {
+    background-color: #fff;
+    margin: 20px 30px;
+    border-radius: 30px;
+    text-align: center;
+}
+
+legend {
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    padding: 10px;
+}
+
+label {
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+input {
+   padding: 2px;
+   margin: 10px 5px;
+   font-weight: 100;
+   margin-right: 10px;
+}
+
